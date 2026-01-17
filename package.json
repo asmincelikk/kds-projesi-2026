@@ -1,0 +1,34 @@
+{
+  "name": "a101-ege-kds",
+  "version": "1.0.0",
+  "description": "A101 Ege Bölge Karar Destek Sistemi",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": ["a101", "kds", "karar-destek-sistemi"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.6.5",
+    "dotenv": "^16.3.1",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
